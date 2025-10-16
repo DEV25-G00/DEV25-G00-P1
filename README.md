@@ -16,6 +16,7 @@ El resto de los ficheros, generalmente de contenido muy pesado o creado por terc
 Para este proyecto en particular hace falta descargar los ficheros ZIP, que ya incluyen las carpetas del mismo nombre, para descomprimirlas directamente en Content: 
 * Characters
 * LevelPrototyping
+* StarterContent
 * ThirdPerson
 * Variant_Platforming
 
